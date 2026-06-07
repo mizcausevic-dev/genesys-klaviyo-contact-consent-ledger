@@ -1,0 +1,30 @@
+{
+  "name": "Genesys Klaviyo Contact Consent Ledger",
+  "slug": "genesys-klaviyo-contact-consent-ledger",
+  "platforms": [
+    "Genesys",
+    "Klaviyo"
+  ],
+  "topics": [
+    "genesys",
+    "klaviyo",
+    "consent",
+    "contact-center",
+    "retention",
+    "kinetic-gain"
+  ],
+  "signals": [
+    {
+      "lane": "exposure",
+      "score": 72
+    },
+    {
+      "lane": "savings",
+      "score": 61
+    },
+    {
+      "lane": "investment",
+      "score": 66
+    }
+  ]
+}
